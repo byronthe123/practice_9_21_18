@@ -1,0 +1,9 @@
+.div_parent{
+    background-color: grey;
+}#div_sub_1{
+    float: left;
+    width: 50%;       
+}#div_sub_2{
+    float: left;
+    width: 50%; 
+}
